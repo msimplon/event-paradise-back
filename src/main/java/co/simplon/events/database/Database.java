@@ -1,5 +1,12 @@
 package co.simplon.events.database;
 
+
+
+// BLOC STATIQUE : permet de regrouper un ensemble d'instruction en mettant le mot clèf statique devant des accolades
+//le bloc va etre exécuté
+// on simule la base de donnée dans la database
+// on met en mémoire les trois lieux et les trois themes 
+
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
